@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Violette | Haute Couture & Ready-to-Wear",
+  "description": "A luxury contemporary clothing store showcasing tailored silhouettes, fine silks, and artisanal knitwear in an elegant purple and white palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
